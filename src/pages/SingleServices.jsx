@@ -7,37 +7,37 @@ const SingleServices = () => {
   const alllogodesigns = [
     {
       id: 2,
-      name: "Logo Design 1",
+      title: "Logo Design 1",
       thumbnail: "/images/logodesign01.jpg",
       link: "/",
     },
     {
       id: 1,
-      name: "Logo Design 2",
+      title: "Logo Design 2",
       thumbnail: "/images/logodesign02.jpg",
       link: "/",
     },
     {
       id: 3,
-      name: "Logo Design 3",
+      title: "Logo Design 3",
       thumbnail: "/images/logodesign03.jpg",
       link: "/",
     },
     {
       id: 4,
-      name: "Logo Design 4",
+      title: "Logo Design 4",
       thumbnail: "/images/logodesign04.jpg",
       link: "/",
     },
     {
       id: 5,
-      name: "Logo Design 5",
+      title: "Logo Design 5",
       thumbnail: "/images/logodesign01.jpg",
       link: "/",
     },
     {
       id: 6,
-      name: "Logo Design 6",
+      title: "Logo Design 6",
       thumbnail: "/images/logodesign02.jpg",
       link: "/",
     },
@@ -46,37 +46,37 @@ const SingleServices = () => {
   const allbrandings = [
     {
       id: 1,
-      name: "Branding 1",
+      title: "Branding 1",
       thumbnail: "/images/branding01.png",
       link: "/",
     },
     {
       id: 2,
-      name: "Branding 2",
+      title: "Branding 2",
       thumbnail: "/images/branding02.png",
       link: "/",
     },
     {
       id: 3,
-      name: "Branding 3",
+      title: "Branding 3",
       thumbnail: "/images/branding03.png",
       link: "/",
     },
     {
       id: 4,
-      name: "Branding 4",
+      title: "Branding 4",
       thumbnail: "/images/branding04.png",
       link: "/",
     },
     {
       id: 5,
-      name: "Branding 5",
+      title: "Branding 5",
       thumbnail: "/images/branding01.png",
       link: "/",
     },
     {
       id: 6,
-      name: "Branding 6",
+      title: "Branding 6",
       thumbnail: "/images/branding02.png",
       link: "/",
     },
@@ -85,37 +85,37 @@ const SingleServices = () => {
   const allPrintDesigns = [
     {
       id: 1,
-      name: "Print Design 1",
+      title: "Print Design 1",
       thumbnail: "/images/printdesign01.png",
       link: "/",
     },
     {
       id: 2,
-      name: "Print Design 2",
+      title: "Print Design 2",
       thumbnail: "/images/printdesign02.png",
       link: "/",
     },
     {
       id: 3,
-      name: "Print Design 3",
+      title: "Print Design 3",
       thumbnail: "/images/printdesign03.png",
       link: "/",
     },
     {
       id: 4,
-      name: "Print Design 4",
+      title: "Print Design 4",
       thumbnail: "/images/printdesign04.png",
       link: "/",
     },
     {
       id: 5,
-      name: "Print Design 5",
+      title: "Print Design 5",
       thumbnail: "/images/printdesign01.png",
       link: "/",
     },
     {
       id: 6,
-      name: "Print Design 6",
+      title: "Print Design 6",
       thumbnail: "/images/printdesign02.png",
       link: "/",
     },
@@ -124,37 +124,37 @@ const SingleServices = () => {
   const allSocialMedia = [
     {
       id: 1,
-      name: "Social Media 1",
+      title: "Social Media 1",
       thumbnail: "/images/socialmedia01.png",
       link: "/",
     },
     {
       id: 2,
-      name: "Social Media 2",
+      title: "Social Media 2",
       thumbnail: "/images/socialmedia02.png",
       link: "/",
     },
     {
       id: 3,
-      name: "Social Media 3",
+      title: "Social Media 3",
       thumbnail: "/images/socialmedia03.png",
       link: "/",
     },
     {
       id: 4,
-      name: "Social Media 4",
+      title: "Social Media 4",
       thumbnail: "/images/socialmedia04.png",
       link: "/",
     },
     {
       id: 5,
-      name: "Social Media 5",
+      title: "Social Media 5",
       thumbnail: "/images/socialmedia01.png",
       link: "/",
     },
     {
       id: 6,
-      name: "Social Media 6",
+      title: "Social Media 6",
       thumbnail: "/images/socialmedia02.png",
       link: "/",
     },
@@ -163,37 +163,37 @@ const SingleServices = () => {
   const allAnimations = [
     {
       id: 1,
-      name: "Animation 1",
+      title: "Animation 1",
       thumbnail: "/images/animation01.png",
       link: "/",
     },
     {
       id: 2,
-      name: "Animation 2",
+      title: "Animation 2",
       thumbnail: "/images/animation02.png",
       link: "/",
     },
     {
       id: 3,
-      name: "Animation 3",
+      title: "Animation 3",
       thumbnail: "/images/animation03.png",
       link: "/",
     },
     {
       id: 4,
-      name: "Animation 4",
+      title: "Animation 4",
       thumbnail: "/images/animation04.png",
       link: "/",
     },
     {
       id: 5,
-      name: "Animation 5",
+      title: "Animation 5",
       thumbnail: "/images/animation01.png",
       link: "/",
     },
     {
       id: 6,
-      name: "Animation 6",
+      title: "Animation 6",
       thumbnail: "/images/animation02.png",
       link: "/",
     },
@@ -202,37 +202,37 @@ const SingleServices = () => {
   const all3dModeling = [
     {
       id: 1,
-      name: "3dmodeling 1",
+      title: "3dmodeling 1",
       thumbnail: "/images/3dmodeling01.png",
       link: "/",
     },
     {
       id: 2,
-      name: "3dmodeling 2",
+      title: "3dmodeling 2",
       thumbnail: "/images/3dmodeling02.png",
       link: "/",
     },
     {
       id: 3,
-      name: "3dmodeling 3",
+      title: "3dmodeling 3",
       thumbnail: "/images/3dmodeling03.png",
       link: "/",
     },
     {
       id: 4,
-      name: "3dmodeling 4",
+      title: "3dmodeling 4",
       thumbnail: "/images/3dmodeling04.png",
       link: "/",
     },
     {
       id: 5,
-      name: "3dmodeling 5",
+      title: "3dmodeling 5",
       thumbnail: "/images/3dmodeling01.png",
       link: "/",
     },
     {
       id: 6,
-      name: "3dmodeling 6",
+      title: "3dmodeling 6",
       thumbnail: "/images/3dmodeling02.png",
       link: "/",
     },
@@ -288,20 +288,21 @@ const SingleServices = () => {
                   className="w-full h-full cursor-pointer"
                   onClick={() => handleImageClick(data.thumbnail)}
                 >
-                  <div className="w-full md:w-[350px] md:h-[300px] mx-auto group overflow-hidden relative rounded-md">
-                    <img
-                      src={data.thumbnail}
-                      className="w-full group-hover:scale-125 transition-all duration-300"
-                      alt={data.name}
-                    />
-                    <div className="w-full h-full p-5 absolute bottom-[-5px] left-0 bg-gradient-to-t from-[#2a9638bd] via-[#003b176c] to-transparent">
-                      <div className="flex flex-col items-start justify-end gap-5 h-full">
-                        <div className="w-full px-4 py-2">
-                          <h2 className="text-white text-2xl font-semibold">
-                            {data.name}
-                          </h2>
-                        </div>
+                  <div className="px-2">
+                    <div className="w-full cursor-pointer">
+                      <div className="group relative mx-3 h-72 sm:h-96 rounded-lg border-2 border-gray-600 overflow-hidden">
+                        <img
+                          src={data.thumbnail}
+                          alt=""
+                          className="w-full h-full object-cover rounded-lg group-hover:scale-125 transition-all duration-500"
+                        />
+                        <div className="w-full h-full bg-gradient-to-t from-[#002D3B] via-[#002d3bb0] to-transparent absolute top-0 left-0 rounded-lg hover:scale-125 transition-all duration-500"></div>
                       </div>
+                    </div>
+                    <div className="w-full p-3">
+                      <h1 className="text-white text-2xl font-bold">
+                        {data.title}
+                      </h1>
                     </div>
                   </div>
                 </div>
