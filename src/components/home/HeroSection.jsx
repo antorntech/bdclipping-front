@@ -28,7 +28,7 @@ const HeroSection = () => {
             <div className="mt-6 md:mt-12 flex flex-col lg:flex-row items-center gap-4 md:gap-6">
               <Link
                 to="/contact"
-                className="border-[2px] border-[#b29361] px-8 py-4 hover:bg-[#b29361] font-semibold rounded-full text-[#b29361] hover:text-white w-full flex justify-center items-center md:w-[250px] gap-2 transition-all duration-300"
+                className="border-[2px] border-[#b29361] px-8 py-3 hover:bg-[#b29361] font-semibold rounded-full text-[#b29361] hover:text-white w-full flex justify-center items-center md:w-[250px] gap-2 transition-all duration-300"
               >
                 <span>Contact With Us</span>
                 <i className="fa-solid fa-arrow-right"></i>

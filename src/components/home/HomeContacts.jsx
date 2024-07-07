@@ -28,7 +28,7 @@ const HomeContacts = () => {
             </div>
             <div className="mx-auto flex flex-col justify-center items-start gap-8">
               <div className="flex items-start gap-5">
-                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#19643b] to-[#3ab54a] p-5 rounded-full">
+                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#2da167] to-[#046d4a] p-5 rounded-full">
                   <i className="fa-solid fa-phone text-white text-2xl"></i>
                 </div>
                 <div className="text-white">
@@ -37,7 +37,7 @@ const HomeContacts = () => {
                 </div>
               </div>
               <div className="flex items-start gap-5">
-                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#19643b] to-[#3ab54a] p-5 rounded-full">
+                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#2da167] to-[#046d4a] p-5 rounded-full">
                   <i className="fa-regular fa-envelope text-white text-2xl"></i>
                 </div>
                 <div className="text-white">
@@ -48,7 +48,7 @@ const HomeContacts = () => {
                 </div>
               </div>
               <div className="flex items-start gap-5">
-                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#19643b] to-[#3ab54a] p-5 rounded-full">
+                <div className="w-12 h-12 flex justify-center items-center bg-gradient-to-r from-[#2da167] to-[#046d4a] p-5 rounded-full">
                   <i className="fa-solid fa-location-dot text-white text-2xl"></i>
                 </div>
                 <div className="text-white">
