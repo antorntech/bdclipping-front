@@ -130,10 +130,10 @@ const HomeClientStories = () => {
               <Slider {...settings}>
                 {clientsSays.map((client, index) => (
                   <div key={index} className="w-full">
-                    <div className="bg-[#62a29a] md:mx-3 p-5 rounded-xl client-card">
+                    <div className="bg-[#35c28c52] md:mx-3 p-5 rounded-xl client-card">
                       <div className="flex flex-col items-center justify-between">
                         <div className="pb-28 flex flex-col justify-center items-center">
-                          <div className="bg-gradient-to-r from-[#5BEFF9] via-[#38F6CD] to-[#04FE8C] rounded-full p-[2px]">
+                          <div className="bg-gradient-to-r from-[#df9929] via-[#183C4B] to-[#d4880e] rounded-full p-[2px]">
                             <img
                               src={client.avatar}
                               alt="client"
