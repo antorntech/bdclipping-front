@@ -59,8 +59,8 @@ const HomeContacts = () => {
                   </h2>
                 </div>
               </div>
-              <div className="w-full mx-auto rounded-xl border-2 border-gray-600 p-5">
-                <div className="text-center mb-8">
+              <div className="w-full mx-auto rounded-xl border-2 border-[#183c4b]  p-5">
+                <div className="text-center md:text-start mb-8">
                   <h1 className="text-white text-2xl md:text-6xl font-bold">
                     Let's Connect
                   </h1>

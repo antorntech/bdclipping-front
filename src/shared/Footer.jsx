@@ -50,7 +50,7 @@ const Footer = () => {
                 </Link>
               </li>
             </ul>
-            <p className="text-gray-500 mt-8">
+            <p className="text-gray-400 mt-8">
               © 2024 All Rights Reserved by AM ANTOR
             </p>
           </div>
