@@ -20,8 +20,11 @@
   justify-content: center;
   background: linear-gradient(225deg, #2e4053 0%, #2e4053 100%);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  transition: all 0.3s ease;
 }
-
+.top-btn:hover {
+  background: #b29361;
+}
 .top-btn--icon {
   font-size: 20px;
   animation: gototop 1.2s linear infinite alternate-reverse;
