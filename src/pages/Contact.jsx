@@ -14,7 +14,7 @@ const Contact = () => {
               <h1 className="text-2xl md:text-4xl font-bold text-white ">
                 Get in touch
               </h1>
-              <div className="mb-5 w-[100px] h-[3px] bg-gradient-to-r from-[#774b04] via-[#b29361] to-[#b29361]"></div>
+              <div className="mb-5 w-[150px] h-[5px] bg-gradient-to-r from-[#047741] via-[#089274] to-transparent"></div>
               <ContactForm />
             </div>
             <div className="hidden mx-auto md:flex flex-col justify-center items-start gap-8">
