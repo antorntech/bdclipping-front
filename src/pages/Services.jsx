@@ -65,7 +65,7 @@ const Services = () => {
                 <Link to={`/services${data.link}`} key={data.id}>
                   <div
                     key={index}
-                    className="border-2 border-gray-600 rounded-[10%] overflow-hidden"
+                    className="border-2 border-[#b29361] rounded-[10%] overflow-hidden"
                   >
                     <h1 className="text-white text-3xl text-center font-semibold p-5">
                       {data.title}
