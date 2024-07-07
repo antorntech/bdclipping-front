@@ -12,7 +12,7 @@ const Footer = () => {
               <li>
                 <Link
                   to="/"
-                  className="text-white hover:text-green-600 transition-all duration-300"
+                  className="text-white hover:text-[#b29361] transition-all duration-300"
                 >
                   Home
                 </Link>
@@ -20,7 +20,7 @@ const Footer = () => {
               <li>
                 <Link
                   to="/services"
-                  className="text-white hover:text-green-600 transition-all duration-300"
+                  className="text-white hover:text-[#b29361] transition-all duration-300"
                 >
                   Services
                 </Link>
@@ -28,7 +28,7 @@ const Footer = () => {
               <li>
                 <Link
                   to="/blogs"
-                  className="text-white hover:text-green-600 transition-all duration-300"
+                  className="text-white hover:text-[#b29361] transition-all duration-300"
                 >
                   Blogs
                 </Link>
@@ -36,7 +36,7 @@ const Footer = () => {
               <li>
                 <Link
                   to="/about"
-                  className="text-white hover:text-green-600 transition-all duration-300"
+                  className="text-white hover:text-[#b29361] transition-all duration-300"
                 >
                   About
                 </Link>
@@ -44,7 +44,7 @@ const Footer = () => {
               <li>
                 <Link
                   to="/contact"
-                  className="text-white hover:text-green-600 transition-all duration-300"
+                  className="text-white hover:text-[#b29361] transition-all duration-300"
                 >
                   Contact
                 </Link>

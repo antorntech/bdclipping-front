@@ -8,7 +8,7 @@ const PageHeader = ({ title }) => {
         {title.toUpperCase()}
       </h1>
       <div className="text-white flex items-center gap-3">
-        <Link to="/" className="text-[#3ab54a]">
+        <Link to="/" className="text-[#b29361]">
           Home
         </Link>{" "}
         / <p className="text-gray-500">{title}</p>
